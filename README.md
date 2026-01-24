@@ -9,3 +9,9 @@ Intro
 Brother
     Need to label all the elements for css. 
     Outline css with tags and decide what the format is. 
+    
+    Okay got ahead of myself
+    The index overall format is fine just set up css
+    Make the home link on the recipe pages home buttons that look nicer
+
+    Have everyting labeled. Just need to format everything now
