@@ -1,33 +1,69 @@
 
 
-.body {
-
+body {
+    background-color: antiquewhite;
+    font-size: 16pt;
 }
 
 button {
+    border: 0px;
+    background-color: antiquewhite;
+    font-size: 12pt;
 
+}
+
+.title, .subtitle {
+    color: #534039;
+    background-color: #baafabde;
+    margin: auto -8px;
 }
 
 .title {
+    text-align: center;
+    margin: 65px -8px 0px -8px;
+    padding: 20px;
 
 }
 
-#food.pic {
+.food-pic {
+    display: block;
+    margin: 40px auto;
 
 }
 
 .subtitle {
+    font-size: 20pt;
+text-align: center;
 
 }
 
 .description {
+    padding: 0px 10px;
+
 
 }
 
-.list {
+li {
+    margin: 12px;
+    padding: 0px 30px;
 
+
+}
+
+ol li {
+    width: 700px;
+    box-sizing: border-box;
+    padding: 5px 30px;
+
+}
+
+ol {
+    margin-bottom: 100px;
 }
 
 .recipes {
+    padding-left: 20px;
+    margin: 50px 0px;
+
 
 }
